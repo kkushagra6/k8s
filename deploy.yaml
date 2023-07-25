@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: todo
-        image: kkushagra6/docker_argo_k8s:32
+        image: kkushagra6/docker_argo_k8s:34
         ports:
         - containerPort: 8000
